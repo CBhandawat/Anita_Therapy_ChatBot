@@ -2,6 +2,10 @@
 
 Anita is a compassionate AI-powered therapy chatbot built using BERT-based intent classification, semantic search with FAISS, and LLM-driven responses via Gemini Pro. It offers emotionally aware conversations and generates speech output using Sarvam AI’s multilingual TTS API.
 
+## Important Note:
+This project is for learning and experimentation only.
+It is not intended to replace real therapy or mental health professionals in any manner. If you’re struggling emotionally, always speak to a qualified therapist or counselor.
+
 ---
 
 ## Features
