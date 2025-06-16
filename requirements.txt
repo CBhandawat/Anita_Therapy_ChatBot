@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+transformers 
+torch
+sentence_transformers
+faiss-cpu
+datasets
+transformers[torch]>=4.40.0
+accelerate
+google-generativeai
+pyttsx3
+pydub
+gtts
+moviepy
