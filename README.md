@@ -57,6 +57,8 @@ It is not intended to replace real therapy or mental health professionals in any
     
 ### 5. Run
    ```
+   python train_faiss_therapy.py
+   python train_hf_intent_classifier.py
    streamlit run app.py
    ```
 It will open your browser
