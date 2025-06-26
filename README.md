@@ -19,6 +19,11 @@ It is not intended to replace real therapy or mental health professionals in any
 
 ---
 
+## Demo
+[Watch Demo](https://github.com/CBhandawat/Anita_Therapy_ChatBot/releases/download/v1.0/Anita_Therapy_ChatBot_Demo.webm)
+
+---
+
 ## Getting Started
 
 ### 1. Prerequisites:
